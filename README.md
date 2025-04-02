@@ -1,5 +1,11 @@
 # Difficult Integral Animation
 
+
+
+https://github.com/user-attachments/assets/31e91efa-1a6a-4383-b891-5529f59f3683
+
+
+
 This project uses Manim to create an animation explaining the integral:
 \[\int\_{0}^{\infty} \frac{x^3}{e^x - 1} \, dx = \frac{\pi^4}{15}\]
 
